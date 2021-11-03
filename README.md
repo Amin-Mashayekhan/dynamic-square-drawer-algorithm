@@ -1,2 +1,2 @@
-# dynamic-square-drawer-algorithm
+# Dynamic square drawer algorithm
 Guidedd by Mr.Javad Adib
